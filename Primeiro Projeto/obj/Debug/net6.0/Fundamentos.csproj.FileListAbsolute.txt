@@ -1,0 +1,15 @@
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/bin/Debug/net6.0/Fundamentos
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/bin/Debug/net6.0/Fundamentos.deps.json
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/bin/Debug/net6.0/Fundamentos.runtimeconfig.json
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/bin/Debug/net6.0/Fundamentos.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/bin/Debug/net6.0/ref/Fundamentos.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/bin/Debug/net6.0/Fundamentos.pdb
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/Fundamentos.csproj.AssemblyReference.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/Fundamentos.AssemblyInfoInputs.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/Fundamentos.AssemblyInfo.cs
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/Fundamentos.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/ref/Fundamentos.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/Fundamentos.pdb
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/Fundamentos/obj/Debug/net6.0/Fundamentos.genruntimeconfig.cache
