@@ -20,3 +20,7 @@ Console.WriteLine(d);
 int e = int.Parse("5"); // -> Todos os tipos terão o método Parse
 Console.WriteLine(e);
 
+int f = Convert.ToInt32(null);
+Console.WriteLine(f);
+int g = int.Parse(null); // -> Valor Nulo no Parse irá dar um erro de excpetion
+Console.WriteLine(g); 
