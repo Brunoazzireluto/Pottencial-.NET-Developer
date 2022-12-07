@@ -22,5 +22,22 @@ Console.WriteLine(e);
 
 int f = Convert.ToInt32(null);
 Console.WriteLine(f);
-int g = int.Parse(null); // -> Valor Nulo no Parse irá dar um erro de excpetion
-Console.WriteLine(g); 
+// int g = int.Parse(null);  -> Valor Nulo no Parse irá dar um erro de excpetion
+// Console.WriteLine(g); 
+
+int inteiro = 4;
+string g = inteiro.ToString();
+
+Console.WriteLine(g);
+
+// Cast Implicito
+int j = 8;
+double k = j;
+Console.WriteLine(k);
+long l = j;
+Console.WriteLine(l);
+long x = long.MaxValue;
+Console.Write(x);
+int w = int.MaxValue;
+long q1 = w;
+Console.WriteLine(q1);
