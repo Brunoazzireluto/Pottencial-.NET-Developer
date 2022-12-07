@@ -41,3 +41,20 @@ Console.Write(x);
 int w = int.MaxValue;
 long q1 = w;
 Console.WriteLine(q1);
+
+//Ordem dos Operadores
+
+double aa = 4 / (2 + 2);
+
+Console.WriteLine(aa);
+
+
+//Convertendo de maneira Segura
+
+
+string bb = "15-";
+// int bbb = 0;
+
+int.TryParse(bb, out int bbb); // -> Tenta fazer a cionversão e se Não conseguir ele irá passar o valor da Variavel chamada
+
+Console.WriteLine(bbb);
