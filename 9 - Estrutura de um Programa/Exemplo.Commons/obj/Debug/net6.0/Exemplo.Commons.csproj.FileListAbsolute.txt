@@ -1,0 +1,12 @@
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/bin/Debug/net6.0/Exemplo.Commons.deps.json
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/bin/Debug/net6.0/Exemplo.Commons.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/bin/Debug/net6.0/ref/Exemplo.Commons.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/bin/Debug/net6.0/Exemplo.Commons.pdb
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/obj/Debug/net6.0/Exemplo.Commons.csproj.AssemblyReference.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/obj/Debug/net6.0/Exemplo.Commons.GeneratedMSBuildEditorConfig.editorconfig
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/obj/Debug/net6.0/Exemplo.Commons.AssemblyInfoInputs.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/obj/Debug/net6.0/Exemplo.Commons.AssemblyInfo.cs
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/obj/Debug/net6.0/Exemplo.Commons.csproj.CoreCompileInputs.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/obj/Debug/net6.0/Exemplo.Commons.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/obj/Debug/net6.0/ref/Exemplo.Commons.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/9 - Estrutura de um Programa/Exemplo.Commons/obj/Debug/net6.0/Exemplo.Commons.pdb
