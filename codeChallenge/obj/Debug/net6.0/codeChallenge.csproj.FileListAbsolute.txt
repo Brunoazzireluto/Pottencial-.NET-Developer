@@ -1,0 +1,15 @@
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/bin/Debug/net6.0/codeChallenge
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/bin/Debug/net6.0/codeChallenge.deps.json
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/bin/Debug/net6.0/codeChallenge.runtimeconfig.json
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/bin/Debug/net6.0/codeChallenge.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/bin/Debug/net6.0/ref/codeChallenge.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/bin/Debug/net6.0/codeChallenge.pdb
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/codeChallenge.csproj.AssemblyReference.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/codeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/codeChallenge.AssemblyInfoInputs.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/codeChallenge.AssemblyInfo.cs
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/codeChallenge.csproj.CoreCompileInputs.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/codeChallenge.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/ref/codeChallenge.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/codeChallenge.pdb
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/codeChallenge/obj/Debug/net6.0/codeChallenge.genruntimeconfig.cache
