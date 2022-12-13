@@ -1,0 +1,15 @@
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/bin/Debug/net6.0/14 - Manipulando Valores
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/bin/Debug/net6.0/14 - Manipulando Valores.deps.json
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/bin/Debug/net6.0/14 - Manipulando Valores.runtimeconfig.json
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/bin/Debug/net6.0/14 - Manipulando Valores.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/bin/Debug/net6.0/ref/14 - Manipulando Valores.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/bin/Debug/net6.0/14 - Manipulando Valores.pdb
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/14 - Manipulando Valores.csproj.AssemblyReference.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/14 - Manipulando Valores.GeneratedMSBuildEditorConfig.editorconfig
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/14 - Manipulando Valores.AssemblyInfoInputs.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/14 - Manipulando Valores.AssemblyInfo.cs
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/14 - Manipulando Valores.csproj.CoreCompileInputs.cache
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/14 - Manipulando Valores.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/ref/14 - Manipulando Valores.dll
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/14 - Manipulando Valores.pdb
+/home/azzireluto/Documentos/Estudos/Pottencial-.NET-Developer/14 - Manipulando Valores/obj/Debug/net6.0/14 - Manipulando Valores.genruntimeconfig.cache
