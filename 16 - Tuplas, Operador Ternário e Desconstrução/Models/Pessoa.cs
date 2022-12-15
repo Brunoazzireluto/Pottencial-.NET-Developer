@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Manipulando_Valores.models
+namespace Tuplas_Operador_Ternário_e_Desconstrução.Models
 {
     public class Pessoa
     {
@@ -18,6 +18,12 @@ namespace Manipulando_Valores.models
             Sobrenome = sobrenome;
         }
 
+        public void Deconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
+ 
         private string _nome;
         private int _idade;
         public string Nome 

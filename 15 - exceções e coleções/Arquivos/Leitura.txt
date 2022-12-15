@@ -1,0 +1,4 @@
+linha 1 do arquivo de leitura
+linha 2
+
+texto texto texto texto

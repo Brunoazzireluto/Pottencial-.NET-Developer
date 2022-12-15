@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Manipulando_Valores.models
+namespace exceções_e_coleções.models
 {
     public class Curso
     {
