@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Material de Escritorio",
+    "Preco": 25.00,
+    "dataVenda": "2022-12-16T11:38:33.3905228-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Papel Higiencio",
+    "Preco": 35.00,
+    "dataVenda": "2022-12-16T11:38:33.3905228-03:00",
+    "Desconto": 10
+  },
+  {
+    "Id": 3,
+    "Nome_Produto": "Bolinha de gude",
+    "Preco": 12.35,
+    "dataVenda": "2022-12-16T11:38:33.3905228-03:00",
+    "Desconto": null
+  }
+]
